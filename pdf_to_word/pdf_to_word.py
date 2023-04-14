@@ -10,6 +10,3 @@ for i in range(numOfPages):
 output_file.close()
 myFile.close()
 
-
-
-
